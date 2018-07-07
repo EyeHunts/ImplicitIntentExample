@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
         // browser
         btn_browser.setOnClickListener(View.OnClickListener {
             val intent = Intent(Intent.ACTION_VIEW)
-            intent.data = Uri.parse("https://www.formget.com/")
+            intent.data = Uri.parse("https://tutorial.eyehunt.in/")
             startActivity(intent)
         })
 
