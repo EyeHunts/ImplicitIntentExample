@@ -1,3 +1,3 @@
 # ImplicitIntentExample
 Implicit Intent in Android Kotlin
-https://tutorial.eyehunt.in/android/implicit-intent-android-example-kotlin/
+https://tutorial.eyehunts.com/android/implicit-intent-android-example-kotlin/
